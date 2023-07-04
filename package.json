@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
-    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-env": "^7.22.6",
     "@babel/register": "^7.9.0",
     "babel-jest": "^26.3.0",
     "babel-loader": "^8.0.5",
